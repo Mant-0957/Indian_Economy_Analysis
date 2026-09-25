@@ -1,5 +1,5 @@
 # Indian_Economy_Analysis
-# 🇮🇳 Indian Economy Analysis
+
 
 ##  Project Overview
 
